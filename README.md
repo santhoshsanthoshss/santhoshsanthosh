@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://santhoshsvs.netlify.app/)**
 
 - 📫 How to reach me **santhoshsanthosh63268@gmail.com**
 
